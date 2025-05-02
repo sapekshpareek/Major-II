@@ -16,25 +16,49 @@ nlp = spacy.load("en_core_web_trf")
 
 
 def preprocess_text(text):
-    # Tokenization
-    tokens = word_tokenize(text)
+    """
+    Preprocess the query text for better matching
+    Args:
+        text (str): Input query text
+    Returns:
+        dict: Processed text information
+    """
+    try:
+        # Tokenization
+        tokens = word_tokenize(text.lower())
 
-    # Stopword removal
-    stop_words = set(stopwords.words("english"))
-    filtered_tokens = [word for word in tokens if word.lower() not in stop_words]
+        # Stopword removal
+        stop_words = set(stopwords.words("english"))
+        filtered_tokens = [word for word in tokens if word not in stop_words]
 
-    # Lemmatization
-    lemmatizer = WordNetLemmatizer()
-    lemmatized_tokens = [lemmatizer.lemmatize(word) for word in filtered_tokens]
+        # Lemmatization
+        lemmatizer = WordNetLemmatizer()
+        lemmatized_tokens = [lemmatizer.lemmatize(word) for word in filtered_tokens]
 
-    # Named Entity Recognition (NER)
-    doc = nlp(text)
-    entities = {ent.text: ent.label_ for ent in doc.ents}
+        # Named Entity Recognition (NER)
+        doc = nlp(text)
+        entities = {ent.text: ent.label_ for ent in doc.ents}
 
-    return {"tokens": lemmatized_tokens, "entities": entities}
+        # Extract section numbers if present
+        section_numbers = [
+            token.text for token in doc 
+            if token.like_num and any(
+                section in text.lower() 
+                for section in ['section', 'bns', 'bharatiya nyaya sanhita']
+            )
+        ]
+
+        return {
+            "processed_text": " ".join(lemmatized_tokens),
+            "entities": entities,
+            "section_numbers": section_numbers
+        }
+    except Exception as e:
+        print(f"Preprocessing error: {str(e)}")
+        return None
 
 
 if __name__ == "__main__":
-    print(preprocess_text("My friend was killed in Delhi under IPC 302."))
+    print(preprocess_text("My friend was murdered by someone"))
 
 
