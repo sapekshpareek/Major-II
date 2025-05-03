@@ -1,0 +1,451 @@
+Section Number,Name,Description,Offence,Punishment,Cognizable,Bailable,Court Level
+1,"Short title, commencement, and application",Defines the title of the act and its application scope.,Not applicable,Not applicable,No,No,Not applicable
+2,Definitions,Provides definitions of key terms used in the act.,Not applicable,Not applicable,No,No,Not applicable
+3,General explanations,Provides general explanations for terms used in the act.,Not applicable,Not applicable,No,No,Not applicable
+4,Punishments,"Lists different types of punishments including death, imprisonment, fine, and community service.",Various offences,"Death, Imprisonment, Fine, Community Service",Depends on offence,Depends on offence,Depends on offence
+5,Commutation of sentence,Allows the government to commute a punishment to a lesser one.,Not applicable,Reduced punishment,No,No,Government decision
+6,Fractions of terms of punishment,Defines how imprisonment terms are calculated in fractions.,Not applicable,Not applicable,No,No,Not applicable
+7,Sentence description,Defines whether an imprisonment sentence is rigorous or simple.,Not applicable,Not applicable,No,No,Not applicable
+8,Amount of fine and liability in default,Defines how fines are determined and the consequences of non-payment.,Failure to pay fine,Additional imprisonment,No,No,Depends on offence
+9,Limit of punishment for multiple offences,States that a person cannot be punished more than once for the same offence.,Multiple offences,One punishment for all related offences,No,No,Depends on offence
+10,Punishment for uncertain offences,"If it is unclear which offence was committed, the person is given the minimum punishment.",Unclear offence,Minimum applicable punishment,No,No,Depends on offence
+11,Solitary confinement,Defines the conditions under which a prisoner may be placed in solitary confinement.,Varies based on offence,Solitary confinement for a limited period,No,No,Court decision
+12,Limitations on solitary confinement,Restricts the duration of solitary confinement to prevent excessive punishment.,Excessive solitary confinement,Regulated period of confinement,No,No,Court decision
+13,Enhanced punishment for repeat offenders,Defines additional punishments for repeat offenders of serious crimes.,Repeat offences,Extended imprisonment or life imprisonment,Yes,No,Sessions Court
+14,Acts done under legal obligation,Defines actions that are not offences if done under legal obligation.,Not applicable,Not applicable,No,No,Not applicable
+15,Acts of judges when acting judicially,States that judges are not liable for actions taken in good faith while performing duties.,Not applicable,Not applicable,No,No,Not applicable
+16,Acts done under a court order,States that actions taken as per a valid court order are not offences.,Not applicable,Not applicable,No,No,Not applicable
+17,Acts justified by law,Defines that actions justified by law or done with a lawful belief are not offences.,Not applicable,Not applicable,No,No,Not applicable
+18,Accident in doing a lawful act,States that an accident occurring while performing a lawful act is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+19,Act likely to cause harm but done without criminal intent,Defines that an act done in good faith to prevent harm is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+20,Act of a child under seven years of age,States that a child below seven years is not criminally liable.,Not applicable,Not applicable,No,No,Not applicable
+21,Act of a child above seven and under twelve years of age,A child between seven and twelve years is not liable if they lack maturity of understanding.,Not applicable,Not applicable,No,No,Not applicable
+22,Act of a person of unsound mind,A person incapable of understanding their actions due to mental illness is not liable.,Not applicable,Not applicable,No,No,Not applicable
+23,Act of a person incapable of judgment by reason of intoxication,A person who is intoxicated without their knowledge or against their will is not liable.,Not applicable,Not applicable,No,No,Not applicable
+24,Offence requiring a particular intent or knowledge committed by one who is intoxicated,A voluntarily intoxicated person is held liable as if they were sober.,Intoxicated offence,Punishment as per offence,Depends on offence,Depends on offence,Depends on offence
+25,"Act not intended and not known to be likely to cause death or grievous hurt, done by consent",An act done with consent and not meant to cause grievous hurt or death is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+26,"Act not intended to cause death, done by consent in good faith for person's benefit",An act done for someone's benefit with consent is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+27,"Act done in good faith for benefit of child or person of unsound mind, by, or by consent of guardian",A guardian can consent to an act done for the benefit of a child or mentally ill person.,Not applicable,Not applicable,No,No,Not applicable
+28,Consent given under fear or misconception,Consent obtained under fear or misunderstanding is not valid.,Not applicable,Not applicable,No,No,Not applicable
+29,Exclusion of acts which are offences independently of harm caused,An act remains an offence even if the harmed party consents to it.,Not applicable,Not applicable,No,No,Not applicable
+30,Act done in good faith for benefit of a person without consent,An act done to benefit someone incapable of consent is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+31,Communication made in good faith,A truthful communication made in good faith is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+32,Act to which a person is compelled by threats,A person forced to commit an act under threat of death is not liable.,Not applicable,Not applicable,No,No,Not applicable
+33,Act causing slight harm,An act causing trivial harm that no reasonable person would complain about is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+34,Things done in private defence,An act done in self-defence is not an offence.,Not applicable,Not applicable,No,No,Not applicable
+35,Right of private defence of body and property,A person has the right to defend their body and property.,Not applicable,Not applicable,No,No,Not applicable
+36,Right of private defence against acts of a person of unsound mind,Self-defence applies even against those acting under a misconception or insanity.,Not applicable,Not applicable,No,No,Not applicable
+37,Acts against which there is no right of private defence,No self-defence is allowed against lawful actions of public servants.,Not applicable,Not applicable,No,No,Not applicable
+38,When right of private defence extends to causing death,Defines when self-defence can extend to causing an assailantâ€™s death.,Homicide in self-defence,Not punishable,No,No,Court decision
+39,When right of private defence extends to causing harm other than death,"Defines cases where only harm, not death, is justifiable in self-defence.",Assault defence,Not punishable,No,No,Court decision
+40,Commencement and continuance of right of private defence of body,Self-defence begins when an imminent threat arises.,Not applicable,Not applicable,No,No,Not applicable
+41,When right of private defence of property extends to causing death,Defines circumstances where lethal force can be used to protect property.,Defence of property,Not punishable,No,No,Court decision
+42,When right of private defence of property extends to causing harm other than death,Use of force for property defence should be proportional.,Defence of property,Not punishable,No,No,Court decision
+43,Commencement and continuance of right of private defence of property,Right of property defence continues until the threat is removed.,Not applicable,Not applicable,No,No,Not applicable
+44,Right of private defence against deadly assault when there is risk to an innocent person,A person may defend themselves even if an innocent person might be harmed.,Self-defence,Not punishable,No,No,Court decision
+45,Abetment of an offence,"Defines what constitutes abetment, including instigation and aiding.",Abetment,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+46,Abettor,Defines an abettor as someone who instigates or aids an offence.,Abetment,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+47,Abetment in India of offences outside India,A person abetting an offence outside India can be held liable in India.,Cross-border abetment,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+48,Abetment outside India for offence in India,A person abetting an offence from outside India is liable under Indian law.,Cross-border abetment,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+49,Punishment of abetment if act abetted is committed,"If the abetted offence is committed, the abettor gets the same punishment.",Abetment,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+50,Punishment of abetment if act abetted is not committed,"If the offence is not committed, the abettor gets a lesser punishment.",Attempted abetment,Up to half the punishment,Depends on offence,Depends on offence,Depends on offence
+51,Liability of abettor when one act is abetted but a different act is committed,"If an act other than the abetted one is committed, the abettor is still liable if it was a probable consequence.",Abetment,Same punishment as offence committed,Depends on offence,Depends on offence,Depends on offence
+52,Abettor when liable to cumulative punishment for act abetted and act done,An abettor can be punished separately for abetting an act and for another offence committed during it.,Abetment,Punishment for both offences,Depends on offence,Depends on offence,Depends on offence
+53,Liability of abettor for effect caused by act abetted different from that intended,An abettor is liable for consequences of the act abetted even if they differ from the intended effect.,Abetment,Same punishment as offence committed,Depends on offence,Depends on offence,Depends on offence
+54,Abettor present when offence is committed,An abettor physically present during the offence is deemed to have committed the offence.,Abetment,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+55,Abetment of offence punishable with death or life imprisonment,"If the abetted offence is punishable by death or life imprisonment, the abettor can receive up to 7 years imprisonment.",Abetment of serious offence,Up to 7 years imprisonment,Depends on offence,Depends on offence,Depends on offence
+56,Abetment of offence punishable with imprisonment,"If the abetted offence carries imprisonment, the abettor can receive up to one-fourth of the maximum term.",Abetment of offence,Up to one-fourth of max term,Depends on offence,Depends on offence,Depends on offence
+57,Abetment by public instigation,Publicly instigating a crime is punishable.,Public incitement,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+58,Concealing a design to commit an offence,Hiding knowledge of a planned crime is punishable.,Concealment of crime,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+59,Punishment for attempting to commit offences,"Defines punishments for attempting crimes, even if unsuccessful.",Attempt to commit crime,Up to half the punishment for the offence,Depends on offence,Depends on offence,Depends on offence
+60,Criminal conspiracy,Defines criminal conspiracy and its punishments.,Criminal conspiracy,Same punishment as offence conspired,Depends on offence,Depends on offence,Depends on offence
+61,When agreement to commit offence amounts to conspiracy,"If two or more people agree to commit an offence, it is considered a conspiracy.",Criminal conspiracy,Same punishment as offence conspired,Depends on offence,Depends on offence,Depends on offence
+62,Punishment for conspiracy,Punishment for conspiracy varies based on the severity of the crime planned.,Criminal conspiracy,Same punishment as offence conspired,Depends on offence,Depends on offence,Depends on offence
+63,Attempt to commit an offence,Defines an attempt as an act done with intent to commit a crime but failing.,Attempt to commit crime,Up to half the punishment for the offence,Depends on offence,Depends on offence,Depends on offence
+64,Punishment for attempt,Attempting an offence is punishable even if the crime is not completed.,Attempt to commit crime,Punishment up to half of actual crime,Depends on offence,Depends on offence,Depends on offence
+65,General explanation for attempts,Clarifies that an attempt must involve direct action towards committing the crime.,Not applicable,Not applicable,No,No,Not applicable
+66,Acts amounting to attempts,Lists specific actions that are legally considered attempts to commit a crime.,Attempt to commit crime,Punishable as per offence,Depends on offence,Depends on offence,Depends on offence
+67,Acts done to facilitate crime,Helping someone commit an offence is punishable.,Aiding crime,Same punishment as the offence,Depends on offence,Depends on offence,Depends on offence
+68,Possession of tools for crime,Possessing tools specifically for committing a crime is punishable.,Possession of crime tools,Up to 3 years imprisonment,Yes,No,Magistrate Court
+69,Concealing existence of a design to commit an offence,Hiding knowledge of planned crimes is punishable.,Concealment of crime,Up to 7 years imprisonment,Yes,No,Sessions Court
+70,Failure to report planned crimes,Failure to inform authorities about a known planned crime is punishable.,Failure to report crime,Up to 3 years imprisonment,Yes,No,Magistrate Court
+71,Negligent acts likely to spread infection,Punishes those whose negligence leads to the spread of infectious diseases.,Negligence in infection control,Up to 2 years imprisonment or fine,Yes,No,Magistrate Court
+72,Disobedience to quarantine rules,Punishes individuals who break quarantine laws during a public health crisis.,Violation of quarantine,Up to 6 months imprisonment or fine,Yes,No,Magistrate Court
+73,Making false statements in public,Punishes individuals who spread false information in public forums.,Public misinformation,Up to 3 years imprisonment,Yes,No,Magistrate Court
+74,Causing disturbance in public places,Punishes acts that disturb public order and safety.,Public disturbance,Up to 1 year imprisonment or fine,Yes,Yes,Magistrate Court
+75,Obstructing public servants in duty,Punishes those who interfere with government officials performing their duties.,Obstruction of public servant,Up to 2 years imprisonment or fine,Yes,No,Magistrate Court
+76,Refusal to sign statements or documents,Punishes individuals who refuse to sign legal documents when required.,Refusal to sign documents,Fine only,No,Yes,Magistrate Court
+77,Defiling places of worship,Punishes individuals who intentionally harm or desecrate religious sites.,Desecration of worship places,Up to 3 years imprisonment,Yes,No,Sessions Court
+78,Indecent acts in public places,Punishes acts of indecency committed in public areas.,Public indecency,Up to 6 months imprisonment or fine,Yes,Yes,Magistrate Court
+79,Falsification of official documents,Punishes those who forge or falsify government documents.,Forgery of documents,Up to 7 years imprisonment,Yes,No,Sessions Court
+80,Tampering with public records,Punishes individuals who alter or destroy government records.,Tampering with public records,Up to 5 years imprisonment,Yes,No,Sessions Court
+81,Theft,Defines theft and its associated punishments.,Theft,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+82,Extortion,Defines extortion and prescribes punishments.,Extortion,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+83,Robbery,Defines robbery and prescribes punishments.,Robbery,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+84,Dacoity,Defines dacoity as robbery committed by five or more persons.,Dacoity,Minimum 10 years imprisonment,Yes,No,Sessions Court
+85,Receiving stolen property,Punishes individuals who knowingly receive stolen goods.,Possession of stolen goods,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+86,Cheating,Defines cheating and prescribes punishments.,Cheating,Up to 7 years imprisonment or fine,Yes,Yes,Magistrate Court
+87,Counterfeiting currency,Punishes those who produce fake currency.,Counterfeiting,Up to life imprisonment and fine,Yes,No,Sessions Court
+88,Forgery,Defines forgery and its associated punishments.,Forgery,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+89,Using forged documents,Punishes individuals who use forged documents knowingly.,Use of forged documents,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+90,Criminal breach of trust,Punishes individuals who misuse entrusted property.,Breach of trust,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+91,Mischief,Punishes acts intended to cause damage or loss.,Mischief,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+92,Trespassing,Punishes unlawful entry into private property.,Trespass,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+93,Defamation,Punishes individuals who harm another personâ€™s reputation through false statements.,Defamation,Up to 2 years imprisonment or fine,No,Yes,Magistrate Court
+94,Attempt to commit offences,Punishes individuals who attempt but fail to commit a crime.,Attempt to commit crime,Up to half of the punishment for the offence,Depends on offence,Depends on offence,Depends on offence
+95,Criminal intimidation,Punishes threats meant to cause fear of harm.,Criminal intimidation,Up to 7 years imprisonment or fine,Yes,Yes,Magistrate Court
+96,Insult with intent to provoke breach of peace,Punishes insults that may incite violence.,Provocative insults,Up to 2 years imprisonment or fine,Yes,Yes,Magistrate Court
+97,Obscene acts and songs,"Punishes obscene gestures, words, or songs.",Obscene acts,Up to 3 months imprisonment or fine,Yes,Yes,Magistrate Court
+98,Adultery,Defines adultery and its punishments.,Adultery,Up to 5 years imprisonment or fine,No,Yes,Magistrate Court
+99,Bigamy,Punishes individuals who marry while already married.,Bigamy,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+100,Cruelty by husband or relatives,Punishes cruelty towards a woman by her husband or in-laws.,Domestic cruelty,Up to 3 years imprisonment and fine,Yes,No,Magistrate Court
+101,Causing miscarriage without consent,Punishes individuals who cause a miscarriage without the womanâ€™s consent.,Illegal miscarriage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+102,Causing miscarriage with consent,"Punishes individuals who cause a miscarriage even with the womanâ€™s consent, except for medical necessity.",Illegal miscarriage,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+103,Abandoning a child,Punishes individuals who abandon a child under 12 years of age.,Child abandonment,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+104,Kidnapping,Defines kidnapping and prescribes punishments.,Kidnapping,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+105,Abduction,Defines abduction and prescribes punishments.,Abduction,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+106,Rape,Defines rape and prescribes punishments.,Rape,Minimum 10 years to life imprisonment,Yes,No,Sessions Court
+107,Sexual harassment,Punishes acts of sexual harassment.,Sexual harassment,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+108,Voyeurism,"Punishes acts of voyeurism, such as capturing private images without consent.",Voyeurism,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+109,Stalking,"Punishes repeated following, monitoring, or contacting a person despite their objection.",Stalking,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+110,Human trafficking,Defines human trafficking and prescribes punishments.,Human trafficking,Minimum 10 years imprisonment and fine,Yes,No,Sessions Court
+111,Unnatural offences,Punishes acts of unnatural offences.,Unnatural offences,Up to life imprisonment,Yes,No,Sessions Court
+112,Attempt to commit rape,Punishes attempts to commit rape.,Attempted rape,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+113,Hurt,Defines hurt and prescribes punishments.,Causing hurt,Up to 1 year imprisonment or fine,Yes,Yes,Magistrate Court
+114,Grievous hurt,Defines grievous hurt and prescribes punishments.,Causing grievous hurt,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+115,Acid attack,Punishes individuals who attack others with acid.,Acid attack,Minimum 10 years imprisonment and fine,Yes,No,Sessions Court
+116,Attempt to acid attack,Punishes individuals who attempt to commit an acid attack.,Attempted acid attack,Minimum 5 years imprisonment and fine,Yes,No,Sessions Court
+117,Criminal force,Punishes individuals who use force to intimidate or overpower others.,Use of criminal force,Up to 3 months imprisonment or fine,Yes,Yes,Magistrate Court
+118,Wrongful restraint,Punishes individuals who wrongfully restrain others from moving freely.,Wrongful restraint,Up to 1 month imprisonment or fine,Yes,Yes,Magistrate Court
+119,Wrongful confinement,Punishes individuals who confine others unlawfully.,Wrongful confinement,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+120,Assault,Defines assault and prescribes punishments.,Assault,Up to 3 months imprisonment or fine,Yes,Yes,Magistrate Court
+121,Murder,Defines murder and prescribes punishments.,Murder,Death penalty or life imprisonment,Yes,No,Sessions Court
+122,Culpable homicide,Defines culpable homicide not amounting to murder.,Culpable homicide,Up to life imprisonment,Yes,No,Sessions Court
+123,Death by negligence,Punishes individuals whose negligence causes death.,Negligent homicide,Up to 2 years imprisonment or fine,Yes,Yes,Magistrate Court
+124,Abetment of suicide,Punishes individuals who encourage or assist in suicide.,Abetment of suicide,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+125,Dowry death,Punishes individuals responsible for a womanâ€™s death due to dowry harassment.,Dowry death,Minimum 7 years to life imprisonment,Yes,No,Sessions Court
+126,Causing miscarriage with intent to harm,Punishes individuals who cause miscarriage to harm a woman.,Miscarriage with intent to harm,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+127,Buying or disposing of minors for prostitution,Punishes individuals involved in child trafficking for prostitution.,Child trafficking,Minimum 10 years imprisonment and fine,Yes,No,Sessions Court
+128,Kidnapping for ransom,Punishes individuals who kidnap with the intent to extort ransom.,Kidnapping for ransom,Life imprisonment or death penalty,Yes,No,Sessions Court
+129,House trespass,Punishes individuals who unlawfully enter anotherâ€™s residence.,House trespass,Up to 2 years imprisonment or fine,Yes,Yes,Magistrate Court
+130,Criminal breach of contract,Punishes individuals who fail to fulfill contractual obligations with criminal intent.,Breach of contract,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+131,False information,Punishes giving false information to public servants,False Information,Up to 6 months imprisonment or fine,No,Yes,Magistrate
+132,Fabricating evidence,Punishes creating false evidence to mislead judicial proceedings,False Evidence,Up to 7 years imprisonment,Yes,No,Sessions
+133,Obscene acts in public,Punishes obscene gestures or words in public places,Public Obscenity,Up to 3 months imprisonment or fine,No,Yes,Magistrate
+134,Adultery,Punishes a man for having relations with another manâ€™s wife without consent,Adultery,Up to 5 years imprisonment or fine,No,Yes,Magistrate
+135,Bigamy,Punishes a person marrying while already being married,Bigamy,Up to 7 years imprisonment and fine,Yes,No,Sessions
+136,Cruelty by husband or relatives,Punishes cruelty towards a married woman,Domestic Cruelty,Up to 3 years imprisonment and fine,Yes,No,Magistrate
+137,False evidence in court,Punishes those giving false evidence in a trial,Perjury,Up to 7 years imprisonment,Yes,No,Sessions
+138,Bribing public officials,Punishes offering bribes to government officials,Bribery,Up to 7 years imprisonment and fine,Yes,No,Sessions
+139,Public servant taking bribes,Punishes officials accepting bribes,Corruption,Up to 7 years imprisonment and fine,Yes,No,Sessions
+140,Forgery for fraud,Punishes document forgery intended for cheating,Fraudulent Forgery,Up to 7 years imprisonment and fine,Yes,No,Sessions
+141,Identity theft,Punishes impersonation or misuse of identity,Identity Theft,Up to 5 years imprisonment and fine,Yes,No,Sessions
+142,Cyber fraud,Punishes fraudulent activities in digital spaces,Cybercrime,Up to 7 years imprisonment and fine,Yes,No,Sessions
+143,Hacking,Punishes unauthorized access to digital systems,Hacking,Up to 10 years imprisonment and fine,Yes,No,Sessions
+144,Online defamation,Punishes harming someoneâ€™s reputation online,Digital Defamation,Up to 2 years imprisonment and fine,No,Yes,Magistrate
+145,Trade secret theft,Punishes stealing confidential business information,Trade Secret Theft,Up to 7 years imprisonment and fine,Yes,No,Sessions
+146,Financial fraud,Punishes manipulating financial transactions for gain,Financial Fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions
+147,Counterfeiting currency,Punishes producing or using fake currency,Counterfeit Currency,Up to life imprisonment,Yes,No,Sessions
+148,Money laundering,Punishes concealment of illegally obtained money,Money Laundering,Up to 10 years imprisonment and fine,Yes,No,Sessions
+149,Obstructing a public servant,Punishes interfering with official duties,Obstruction of Public Servant,Up to 3 years imprisonment and fine,Yes,No,Magistrate
+150,Rioting,Punishes participation in violent group activities,Rioting,Up to 2 years imprisonment and fine,Yes,Yes,Magistrate
+151,Obstructing a public servant,Punishes individuals who obstruct government officials in duty.,Obstruction of public servant,Up to 3 years imprisonment or fine,Yes,No,Magistrate Court
+152,Giving false information,Punishes individuals who knowingly provide false information to authorities.,False information,Up to 2 years imprisonment or fine,Yes,Yes,Magistrate Court
+153,Escape from lawful custody,Punishes individuals who escape from lawful custody.,Prison escape,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+154,Rioting,Defines rioting and prescribes punishments.,Rioting,Up to 3 years imprisonment or fine,Yes,No,Magistrate Court
+155,Unlawful assembly,Punishes individuals who participate in unlawful gatherings.,Unlawful assembly,Up to 6 months imprisonment or fine,Yes,Yes,Magistrate Court
+156,Criminal conspiracy against the state,Punishes those who conspire against the government.,Criminal conspiracy,Up to life imprisonment,Yes,No,Sessions Court
+157,Sedition,Punishes acts that incite violence against the state.,Sedition,Up to life imprisonment,Yes,No,Sessions Court
+158,Waging war against the state,Punishes individuals who wage war against the government.,Waging war,Death penalty or life imprisonment,Yes,No,Sessions Court
+159,Treason,Punishes acts of betrayal against the country.,Treason,Death penalty or life imprisonment,Yes,No,Sessions Court
+160,Spying against the state,Punishes individuals who engage in espionage.,Espionage,Up to 14 years imprisonment,Yes,No,Sessions Court
+161,Bribery,Punishes both those who give and accept bribes.,Bribery,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+162,Misuse of official position,Punishes public officials who abuse their power.,Abuse of power,Up to 5 years imprisonment or fine,Yes,No,Sessions Court
+163,Counterfeiting government documents,Punishes the creation of fake government-issued documents.,Document forgery,Up to 10 years imprisonment,Yes,No,Sessions Court
+164,Offences related to elections,"Punishes election fraud, rigging, and bribery.",Election fraud,Up to 3 years imprisonment or fine,Yes,No,Magistrate Court
+165,Publishing fake news,Punishes individuals who spread false information that causes public unrest.,Fake news,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+166,Disrespect to the national flag,Punishes acts of disrespect to the national flag and anthem.,Insulting national symbols,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+167,Obstruction of justice,Punishes individuals who interfere with the judicial process.,Obstructing justice,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+168,Tampering with evidence,Punishes individuals who destroy or alter evidence.,Evidence tampering,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+169,Giving false testimony,Punishes individuals who lie under oath.,Perjury,Up to 7 years imprisonment,Yes,No,Sessions Court
+170,Influencing a judicial officer,Punishes individuals who attempt to influence judges or lawyers.,Judicial interference,Up to 5 years imprisonment,Yes,No,Sessions Court
+171,Criminal breach of contract,Punishes those who dishonestly violate contractual agreements.,Breach of contract,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+172,Corporate fraud,Punishes fraudulent activities committed by corporations.,Corporate fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+173,Cybercrime,"Punishes digital crimes such as hacking, identity theft, and phishing.",Cybercrime,Up to 7 years imprisonment or fine,Yes,No,Sessions Court
+174,Defacement of public property,Punishes individuals who damage or deface public property.,Defacement,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+175,Criminal intimidation of witnesses,Punishes individuals who threaten witnesses in legal proceedings.,Witness intimidation,Up to 7 years imprisonment,Yes,No,Sessions Court
+176,Illegal possession of firearms,Punishes unauthorized possession of weapons.,Illegal firearms possession,Up to 10 years imprisonment,Yes,No,Sessions Court
+177,Terrorist activities,Punishes involvement in terrorism or aiding terrorists.,Terrorism,Death penalty or life imprisonment,Yes,No,Sessions Court
+178,Funding terrorist activities,Punishes individuals who finance terrorist operations.,Terrorist financing,Life imprisonment,Yes,No,Sessions Court
+179,Human rights violations,Punishes individuals or officials involved in human rights abuses.,Human rights abuse,Up to life imprisonment,Yes,No,Sessions Court
+180,Domestic violence,"Punishes physical, emotional, or economic abuse within a household.",Domestic violence,Up to 3 years imprisonment or fine,Yes,No,Magistrate Court
+181,Child labor exploitation,Punishes those who employ children in hazardous work.,Child labor,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+182,Environmental pollution,Punishes acts that cause severe environmental damage.,Pollution,Up to 5 years imprisonment or fine,Yes,No,Sessions Court
+183,Illegal mining,Punishes unauthorized extraction of minerals.,Illegal mining,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+184,Human trafficking for forced labor,Punishes trafficking of people for forced labor.,Forced labor trafficking,Minimum 10 years imprisonment and fine,Yes,No,Sessions Court
+185,Begging racket involvement,Punishes individuals who force others into begging.,Begging racket,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+186,Sexual exploitation,Punishes individuals involved in sexual exploitation and abuse.,Sexual exploitation,Up to life imprisonment,Yes,No,Sessions Court
+187,Pornography distribution,Punishes those who distribute or create pornographic content involving minors.,Child pornography,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+188,Blackmail and extortion,Punishes individuals who obtain money or favors through threats.,Extortion,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+189,Fraudulent financial activities,Punishes fraudulent activities such as Ponzi schemes.,Financial fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+190,Misleading advertisements,Punishes false advertisements that mislead consumers.,False advertising,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+191,Illegal drug trafficking,Punishes individuals involved in the smuggling and sale of drugs.,Drug trafficking,Minimum 10 years to life imprisonment,Yes,No,Sessions Court
+192,Possession of illegal drugs,Punishes individuals caught in possession of banned narcotics.,Drug possession,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+193,Violence against healthcare workers,"Punishes individuals who assault doctors, nurses, or medical staff.",Assault on healthcare workers,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+194,Smuggling of arms and ammunition,Punishes individuals involved in illegal arms trade.,Arms smuggling,Up to life imprisonment,Yes,No,Sessions Court
+195,Destruction of historical monuments,Punishes acts of vandalism against heritage sites.,Heritage vandalism,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+196,Impersonation of a public servant,Punishes individuals who falsely claim to be a government official.,Impersonation,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+197,Forgery of academic certificates,Punishes individuals who create or use fake educational degrees.,Certificate forgery,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+198,False complaints to police,Punishes individuals who deliberately file false police reports.,False reporting,Up to 2 years imprisonment or fine,Yes,Yes,Magistrate Court
+199,Hoarding and profiteering,Punishes illegal hoarding of essential commodities to manipulate prices.,Hoarding,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+200,Deliberate spreading of disease,Punishes individuals who knowingly spread infectious diseases.,Spreading disease,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+201,Tampering with food or drink,Punishes individuals who contaminate food or drinks with harmful substances.,Food tampering,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+202,Adulteration of drugs,Punishes those who manufacture or sell adulterated medicines.,Drug adulteration,Up to life imprisonment and fine,Yes,No,Sessions Court
+203,Manufacturing fake medicines,Punishes individuals involved in producing counterfeit drugs.,Fake medicines,Up to life imprisonment and fine,Yes,No,Sessions Court
+204,Cheating in government exams,Punishes those who commit fraud in public examinations.,Exam fraud,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+205,Illegal animal poaching,Punishes those who engage in hunting protected species.,Animal poaching,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+206,Illegal deforestation,Punishes unauthorized cutting of trees in protected areas.,Deforestation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+207,Smuggling of rare wildlife,Punishes the illegal trade of endangered animals.,Wildlife smuggling,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+208,Theft of government property,Punishes theft or destruction of public infrastructure.,Theft of public property,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+209,Tampering with railway tracks,Punishes acts that endanger railway safety.,Railway sabotage,Up to life imprisonment,Yes,No,Sessions Court
+210,Arson,Punishes intentional setting of fire to property.,Arson,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+211,Cyberstalking,Punishes online harassment and cyberstalking.,Cyberstalking,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+212,Identity theft,Punishes unauthorized use of another personâ€™s identity.,Identity theft,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+213,Online fraud and phishing,Punishes digital scams and online financial fraud.,Online fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+214,Unauthorized access to government data,Punishes hacking into government databases.,Government hacking,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+215,Propagating hate speech,Punishes individuals who spread hate speech against communities.,Hate speech,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+216,Obscene online content,Punishes distribution of obscene or offensive digital content.,Online obscenity,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+217,Harboring criminals,Punishes individuals who shelter or assist criminals.,Harboring criminals,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+218,Failure to report a crime,Punishes individuals who deliberately withhold information about crimes.,Failure to report crime,Up to 3 years imprisonment or fine,Yes,Yes,Magistrate Court
+219,Obstructing police investigations,Punishes those who interfere with ongoing criminal investigations.,Police obstruction,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+220,Leaking classified government information,Punishes those who unlawfully disclose confidential state data.,Unauthorized disclosure,Up to 14 years imprisonment,Yes,No,Sessions Court
+221,Causing environmental disasters,Punishes those responsible for large-scale environmental damage.,Environmental disaster,Up to life imprisonment and fine,Yes,No,Sessions Court
+222,Engaging in biological warfare,Punishes development or use of biological weapons.,Biological warfare,Death penalty or life imprisonment,Yes,No,Sessions Court
+223,Unauthorized possession of nuclear materials,Punishes individuals involved in illegal handling of nuclear substances.,Nuclear material possession,Up to life imprisonment,Yes,No,Sessions Court
+224,Violence during public protests,Punishes individuals who commit violence in protests.,Protest violence,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+225,Forced religious conversions,Punishes coercion for religious conversion.,Religious coercion,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+226,Marital rape,Punishes non-consensual acts within marriage.,Marital rape,Up to 7 years imprisonment,Yes,No,Sessions Court
+227,Honor killings,Punishes murders committed in the name of family honor.,Honor killing,Death penalty or life imprisonment,Yes,No,Sessions Court
+228,Lynching,Punishes individuals involved in mob lynching.,Lynching,Up to life imprisonment,Yes,No,Sessions Court
+229,Political corruption,Punishes politicians involved in corruption or misuse of power.,Political corruption,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+230,Smuggling of cultural artifacts,Punishes illegal trade of historical artifacts.,Cultural smuggling,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+231,Destruction of religious sites,Punishes individuals who damage places of worship.,Religious vandalism,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+232,False accusations,Punishes individuals who falsely accuse others of crimes.,False accusation,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+233,Disrupting emergency services,Punishes those who interfere with essential public services.,Emergency disruption,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+234,Creating public nuisance,Punishes acts that disturb peace and order.,Public nuisance,Up to 1 year imprisonment or fine,Yes,Yes,Magistrate Court
+235,Unauthorized financial trading,Punishes illegal stock market or commodity trading activities.,Financial fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+236,Manipulating online reviews,Punishes individuals or companies that post fake online reviews.,Review manipulation,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+237,Scamming through fake job offers,Punishes those who deceive job seekers with fraudulent offers.,Job scam,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+238,Selling counterfeit automobile parts,Punishes manufacturers and dealers of fake vehicle components.,Counterfeit auto parts,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+239,Fraud in multi-level marketing (MLM) schemes,Punishes pyramid schemes and deceptive MLM practices.,MLM fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+240,Illegal sand mining,Punishes unauthorized extraction of sand from riverbeds.,Sand mining,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+241,Tampering with meter readings,"Punishes fraudulent changes to electricity, gas, or water meter readings.",Utility fraud,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+242,Fraud in online ticket bookings,"Punishes fraudulent practices in railway, flight, and event ticket sales.",Ticket fraud,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+243,Sabotaging water pipelines,Punishes individuals who damage water supply infrastructure.,Water sabotage,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+244,Spreading false medical information,Punishes individuals who spread misleading or fake health advice.,Medical misinformation,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+245,Creating and sharing deepfake content,Punishes individuals who produce and share fake videos or images.,Deepfake content,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+246,Hoarding and black marketing of essential goods,Punishes illegal stockpiling of necessary commodities.,Black marketing,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+247,Poaching of marine wildlife,Punishes illegal hunting and trade of marine animals.,Marine poaching,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+248,Smuggling of rare plants,Punishes unauthorized trade of protected plant species.,Illegal plant trade,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+249,Illegal dumping of hazardous waste,Punishes improper disposal of toxic chemicals and industrial waste.,Hazardous waste dumping,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+250,Deliberate disruption of internet services,Punishes intentional sabotage of digital communications.,Internet disruption,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+251,Hate crimes,Punishes acts committed with intent to harm individuals based on identity.,Hate crime,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+252,Defaming public figures,Punishes spreading false information to damage reputations.,Defamation,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+253,Forgery of land documents,Punishes individuals who forge property-related documents.,Land forgery,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+254,Fraudulent real estate deals,Punishes deceptive land or property transactions.,Real estate fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+255,Encroachment of public land,Punishes illegal occupation of government land.,Land encroachment,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+256,Illegal construction,Punishes unauthorized building activities.,Illegal construction,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+257,Fraudulent loan applications,Punishes false documentation for obtaining loans.,Loan fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+258,Corrupt financial practices,Punishes financial professionals engaging in fraudulent activities.,Financial corruption,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+259,Tampering with public utilities,"Punishes unauthorized interference with electricity, water, or telecom services.",Utility tampering,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+260,Disrupting public transportation,Punishes acts that interfere with transportation services.,Public transport disruption,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+261,Counterfeiting brand products,Punishes the manufacturing and sale of fake branded goods.,Counterfeit goods,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+262,Manufacturing fake documents,Punishes individuals who produce forged identification or certificates.,Fake documents,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+263,Spreading false panic messages,Punishes individuals who incite unnecessary panic in the public.,False panic,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+264,Unauthorized military impersonation,Punishes individuals who falsely claim to be in the armed forces.,Military impersonation,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+265,Fraud in stock markets,Punishes individuals engaged in illegal stock market manipulations.,Stock fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+266,Misuse of government funds,Punishes officials who divert public funds for personal gain.,Fund misappropriation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+267,Illegal money laundering,Punishes those who conceal financial transactions from authorities.,Money laundering,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+268,Theft of intellectual property,Punishes unauthorized use of copyrighted or patented material.,IP theft,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+269,Spreading malware or viruses,Punishes individuals who create or distribute harmful digital content.,Cyber attack,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+270,Obstructing emergency responders,"Punishes individuals who interfere with ambulance, fire, or disaster response teams.",Emergency obstruction,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+271,Endangering public safety,Punishes acts that put public safety at risk.,Public safety endangerment,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+272,Cyber terrorism,Punishes digital activities aimed at harming national security.,Cyber terrorism,Life imprisonment,Yes,No,Sessions Court
+273,Disrupting religious gatherings,Punishes individuals who disturb religious ceremonies.,Religious disturbance,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+274,Fraud in charity organizations,Punishes individuals who misuse charitable donations.,Charity fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+275,Hoarding medical supplies,Punishes those who stockpile and overcharge for essential medicines.,Medical hoarding,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+276,Selling expired or fake medicines,Punishes retailers selling expired or fake pharmaceuticals.,Fake medicine sales,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+277,Poisoning water sources,Punishes those who deliberately contaminate water supplies.,Water poisoning,Up to life imprisonment,Yes,No,Sessions Court
+278,Violence against journalists,Punishes physical attacks on media professionals.,Assault on journalists,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+279,Online impersonation and fraud,Punishes individuals who create fake social media accounts to commit fraud.,Online fraud,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+280,Unauthorized drone surveillance,Punishes illegal use of drones to monitor individuals or places.,Drone surveillance,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+281,Online harassment and trolling,Punishes individuals who repeatedly harass others online.,Cyber harassment,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+282,False advertising of medical treatments,Punishes misleading medical treatment advertisements.,False medical ads,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+283,Vandalism of public transport,"Punishes individuals who damage buses, trains, or metro services.",Public transport vandalism,Up to 3 years imprisonment and fine,Yes,No,Sessions Court
+284,Theft of electricity,Punishes unauthorized use or theft of electricity.,Electricity theft,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+285,Leaking examination papers,Punishes individuals involved in leaking board or university exams.,Exam paper leak,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+286,Organizing illegal gambling,Punishes individuals who operate unauthorized gambling or betting operations.,Illegal gambling,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+287,Smuggling of human organs,Punishes individuals involved in illegal organ trade.,Organ smuggling,Up to life imprisonment,Yes,No,Sessions Court
+288,Disrupting emergency communication networks,Punishes individuals who sabotage emergency response communication.,Emergency disruption,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+289,Misuse of social welfare schemes,Punishes individuals who fraudulently obtain government benefits.,Welfare fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+290,Unauthorized possession of government IDs,Punishes individuals who forge or illegally possess official identity cards.,Fake government ID,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+291,Spreading fake job recruitment notices,Punishes individuals who post fraudulent job offers.,Fake job recruitment,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+292,Deliberate contamination of food supply,Punishes individuals who knowingly introduce harmful substances into food production.,Food contamination,Up to life imprisonment,Yes,No,Sessions Court
+293,Sexual exploitation in workplaces,Punishes individuals involved in sexual harassment at the workplace.,Workplace harassment,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+294,Manipulation of digital evidence,Punishes individuals who alter or delete digital evidence in legal cases.,Digital evidence tampering,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+295,Sabotaging renewable energy projects,"Punishes individuals who disrupt solar, wind, or hydroelectric power projects.",Energy sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+296,Illegal trade of historical manuscripts,Punishes individuals involved in smuggling or selling ancient scripts and texts.,Heritage smuggling,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+297,Deliberate tampering with air pollution control devices,Punishes individuals who disable or manipulate emission control systems.,Pollution control tampering,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+298,Cyber extortion,Punishes individuals who threaten others with digital blackmail.,Cyber extortion,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+299,Threats to national security through digital platforms,Punishes individuals who use social media for acts that threaten national security.,Digital security threat,Up to life imprisonment,Yes,No,Sessions Court
+300,Unauthorized testing of biological agents,Punishes individuals who conduct unauthorized experiments with viruses or bacteria.,Illegal biological testing,Up to life imprisonment,Yes,No,Sessions Court
+301,Unauthorized clinical trials,Punishes individuals who conduct medical trials without proper approval.,Illegal clinical trials,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+302,False representation in legal proceedings,Punishes individuals who impersonate others in court cases.,Legal impersonation,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+303,Leaking trade secrets,Punishes employees who unlawfully share confidential business information.,Trade secret breach,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+304,Forgery of vehicle registration certificates,Punishes individuals who produce or use fake vehicle registration documents.,Fake vehicle registration,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+305,Manipulating cryptocurrency markets,Punishes individuals who engage in fraudulent activities involving cryptocurrencies.,Crypto fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+306,Online radicalization,Punishes individuals who use digital platforms to spread extremist ideology.,Radicalization,Up to life imprisonment,Yes,No,Sessions Court
+307,Unauthorized genetic modifications,Punishes individuals involved in illegal genetic engineering experiments.,Illegal genetic modification,Up to life imprisonment,Yes,No,Sessions Court
+308,Tampering with weather monitoring equipment,Punishes individuals who interfere with meteorological stations.,Weather data manipulation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+309,Unauthorized sale of burial land,Punishes individuals who illegally sell land meant for public burials.,Burial land fraud,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+310,Hate crimes against disabled persons,Punishes acts of violence or discrimination against disabled individuals.,Hate crime,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+311,Illegal marketing of controlled substances,Punishes unauthorized promotion and sale of regulated medications.,Controlled substance abuse,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+312,Defacement of currency notes,Punishes individuals who intentionally damage legal tender.,Currency defacement,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+313,Illegal modification of firearms,Punishes those who alter weapons without authorization.,Firearm modification,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+314,Falsifying academic research,Punishes researchers who fabricate or manipulate scientific data.,Research fraud,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+315,Fraud in medical insurance claims,Punishes individuals who file false medical insurance claims.,Insurance fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+316,Unauthorized human cloning,Punishes those involved in illegal cloning of human cells or embryos.,Human cloning,Up to life imprisonment,Yes,No,Sessions Court
+317,Tampering with disaster warning systems,Punishes individuals who disable or manipulate emergency alert systems.,Disaster system sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+318,Disrupting military operations,Punishes acts that interfere with defense forces.,Military interference,Up to life imprisonment,Yes,No,Sessions Court
+319,Smuggling of radioactive materials,Punishes individuals who transport or trade nuclear substances unlawfully.,Radioactive smuggling,Up to life imprisonment,Yes,No,Sessions Court
+320,Producing and distributing counterfeit currency,Punishes those involved in the illegal production of fake money.,Counterfeit currency,Up to life imprisonment,Yes,No,Sessions Court
+321,Harassment of election officials,Punishes threats or violence against election officers.,Election interference,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+322,Destruction of military records,Punishes individuals who unlawfully destroy military documentation.,Military document tampering,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+323,Spreading conspiracy theories with intent to incite violence,Punishes those who deliberately spread false information to provoke unrest.,Inciting violence,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+324,Illegal organ harvesting,Punishes individuals involved in the unlawful removal of human organs.,Organ harvesting,Up to life imprisonment,Yes,No,Sessions Court
+325,Misuse of artificial intelligence for fraud,Punishes individuals who use AI systems to commit financial or identity fraud.,AI fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+326,Unauthorized genetic data collection,Punishes companies or individuals who collect genetic data without consent.,Genetic data privacy violation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+327,Smuggling of exotic pets,Punishes the illegal trade of rare and endangered animals.,Exotic pet trade,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+328,Tampering with police evidence,"Punishes individuals who manipulate, destroy, or alter police evidence.",Evidence tampering,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+329,Unauthorized sale of military equipment,Punishes individuals who sell or trade government defense equipment illegally.,Military equipment trade,Up to life imprisonment,Yes,No,Sessions Court
+330,Deliberate obstruction of climate change research,Punishes acts that intentionally disrupt climate studies or manipulate data.,Climate research obstruction,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+331,Unauthorized collection of biometric data,Punishes individuals or organizations that collect biometric data without consent.,Biometric privacy violation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+332,Hacking into government databases,Punishes cybercriminals who access government systems without authorization.,Cyber espionage,Up to life imprisonment,Yes,No,Sessions Court
+333,Spreading misinformation about public health emergencies,Punishes individuals who deliberately mislead the public on health crises.,Public health misinformation,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+334,Sabotaging renewable energy grids,"Punishes individuals who disrupt solar, wind, or hydroelectric power distribution.",Energy sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+335,Theft of industrial secrets,Punishes employees or competitors who steal confidential business data.,Industrial espionage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+336,Tampering with flight control systems,Punishes those who interfere with aviation control networks.,Aviation security breach,Up to life imprisonment,Yes,No,Sessions Court
+337,Unauthorized use of deepfake technology for fraud,Punishes individuals who use deepfake AI for financial scams or defamation.,Deepfake fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+338,Leaking classified defense documents,Punishes unauthorized disclosure of military and defense information.,Defense document leak,Up to life imprisonment,Yes,No,Sessions Court
+339,Misuse of emergency funds,Punishes individuals or organizations that misuse disaster relief or crisis management funds.,Emergency fund fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+340,Tampering with pharmaceutical trials,Punishes individuals or companies that falsify medical research data.,Drug trial fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+341,Deliberate disruption of satellite communication,Punishes individuals or organizations that interfere with satellite networks.,Satellite sabotage,Up to life imprisonment,Yes,No,Sessions Court
+342,Illegal arms trafficking,Punishes individuals involved in smuggling or illegal trade of weapons.,Arms trafficking,Up to life imprisonment,Yes,No,Sessions Court
+343,Sabotaging water purification plants,Punishes those who contaminate or disable water treatment facilities.,Water sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+344,Cyberbullying leading to self-harm,Punishes individuals who harass others online to the extent of causing self-harm.,Severe cyberbullying,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+345,Organizing unauthorized drone surveillance,Punishes illegal use of drones for spying or stalking.,Illegal drone surveillance,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+346,Trafficking of counterfeit luxury goods,Punishes individuals who manufacture or sell fake branded products.,Luxury goods fraud,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+347,Spreading false investment schemes,Punishes fraudulent financial schemes like Ponzi and fake investment scams.,Investment fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+348,Sabotaging public transportation safety,"Punishes acts that endanger the safety of passengers on buses, trains, or metros.",Public transport sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+349,Unauthorized disposal of nuclear waste,Punishes illegal dumping of radioactive materials.,Nuclear waste crime,Up to life imprisonment,Yes,No,Sessions Court
+350,Deliberate tampering with forensic evidence,Punishes individuals who alter or destroy evidence in criminal investigations.,Forensic evidence tampering,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+351,Unauthorized sale of human embryos,Punishes individuals who illegally sell or trade human embryos.,Embryo trafficking,Up to life imprisonment,Yes,No,Sessions Court
+352,Illicit trade of protected plant species,Punishes individuals involved in illegal logging or trade of rare plants.,Illegal plant trade,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+353,Falsifying land ownership records,Punishes those who alter property records to claim false ownership.,Land record fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+354,Spreading false information to influence elections,Punishes individuals who use misinformation to manipulate election results.,Election misinformation,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+355,Selling stolen mobile phones,Punishes individuals who trade in stolen or illegally obtained mobile devices.,Mobile theft trafficking,Up to 3 years imprisonment and fine,Yes,Yes,Magistrate Court
+356,Tampering with disaster relief supplies,Punishes individuals who hoard or misuse supplies meant for disaster victims.,Disaster relief fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+357,Obstructing medical emergency responders,Punishes those who interfere with ambulance services or medical professionals.,Medical obstruction,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+358,Unauthorized sale of explosive materials,Punishes individuals who trade in explosives without legal permits.,Explosive materials trade,Up to life imprisonment,Yes,No,Sessions Court
+359,Sabotaging water reservoirs,Punishes individuals who damage or contaminate public water storage systems.,Water supply sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+360,Illegal sale of wildlife trophies,Punishes individuals who trade in animal remains like ivory and skins.,Wildlife trafficking,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+361,Forgery of business contracts,Punishes individuals who falsify commercial agreements.,Business fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+362,Online impersonation of government officials,Punishes individuals who pretend to be government officials for fraudulent purposes.,Government impersonation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+363,Unauthorized surveillance using AI,Punishes individuals or organizations that use AI for illegal surveillance.,AI surveillance abuse,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+364,Tampering with digital voting systems,Punishes individuals who manipulate electronic voting machines.,Election fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+365,Blackmail using private digital data,Punishes individuals who threaten others using hacked or leaked personal information.,Digital blackmail,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+366,Unauthorized sale of government-issued licenses,Punishes individuals who illegally trade or forge official licenses.,License fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+367,Deliberate spreading of computer viruses,Punishes individuals who create or distribute malicious software.,Cybercrime,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+368,Smuggling of rare fossils,Punishes individuals who trade in protected fossil remains.,Fossil smuggling,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+369,Obstructing international rescue efforts,Punishes individuals who interfere with humanitarian operations.,Rescue operation obstruction,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+370,Spying on journalists,Punishes individuals or organizations that unlawfully monitor journalists.,Press surveillance,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+371,Illicit trafficking of medicinal plants,Punishes individuals who illegally trade in protected medicinal plants.,Medicinal plant trafficking,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+372,Sabotaging underground transportation systems,Punishes individuals who damage metro or tunnel systems.,Metro sabotage,Up to life imprisonment,Yes,No,Sessions Court
+373,Manipulating sports betting results,Punishes individuals who influence sports events for illegal betting.,Sports fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+374,Hoarding of artificial intelligence resources,Punishes individuals or companies who restrict AI model access for profit.,AI hoarding,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+375,Tampering with renewable energy storage systems,Punishes individuals who damage or disrupt energy storage grids.,Energy sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+376,Using AI for financial fraud,Punishes individuals who manipulate financial markets using AI models.,AI financial fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+377,Theft of self-driving vehicle technology,Punishes individuals who steal or misuse autonomous vehicle algorithms.,Tech espionage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+378,Misuse of drone swarms for attacks,Punishes individuals who use multiple drones for coordinated illegal activities.,Drone warfare,Up to life imprisonment,Yes,No,Sessions Court
+379,Obstructing space exploration missions,Punishes individuals who sabotage satellite launches or space research.,Space mission sabotage,Up to life imprisonment,Yes,No,Sessions Court
+380,Manipulation of AI-driven news platforms,Punishes individuals who use AI to generate fake news or propaganda.,AI misinformation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+381,Tampering with AI-driven medical diagnosis systems,Punishes individuals who manipulate AI-based medical predictions.,Medical AI tampering,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+382,Illicit use of AI in electoral campaigns,Punishes misuse of AI-generated content to influence elections.,AI electoral fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+383,Unauthorized cloning of endangered species,Punishes individuals or companies involved in genetic cloning of rare animals.,Illegal animal cloning,Up to life imprisonment,Yes,No,Sessions Court
+384,Tampering with AI-powered law enforcement systems,Punishes interference with AI surveillance used by police or legal authorities.,Law enforcement AI sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+385,Illegal use of AI in military operations,Punishes individuals who deploy AI-driven weapons without authorization.,Unauthorized AI warfare,Up to life imprisonment,Yes,No,Sessions Court
+386,Tampering with climate modeling data,Punishes individuals or organizations that falsify climate change reports.,Climate data manipulation,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+387,Hoarding of quantum computing resources,Punishes companies or individuals restricting access to quantum computers.,Quantum tech hoarding,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+388,Unauthorized sale of AI-driven surveillance tools,Punishes illegal trade of AI-based security and facial recognition systems.,AI surveillance trade,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+389,Fraud in AI-generated digital identity creation,Punishes individuals who generate fake identities using AI.,AI identity fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+390,Tampering with AI-generated forensic reports,Punishes individuals who manipulate forensic reports created using AI analysis.,Forensic AI tampering,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+391,Manipulating AI-driven financial models,Punishes individuals who exploit AI for financial market manipulation.,AI financial fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+392,Unauthorized geoengineering experiments,Punishes individuals who attempt to modify Earth's climate without approval.,Illegal geoengineering,Up to life imprisonment,Yes,No,Sessions Court
+393,Illicit use of AI for mass disinformation,Punishes large-scale use of AI-generated content to spread false news.,AI disinformation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+394,Tampering with AI-driven personal assistants,Punishes individuals who exploit AI virtual assistants to collect unauthorized data.,AI assistant data breach,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+395,Illegal trade of AI-generated artwork and music,Punishes unauthorized selling of AI-created intellectual property.,AI art theft,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+396,Deliberate sabotage of AI-driven autonomous vehicles,Punishes hacking or interference with self-driving cars.,Autonomous vehicle sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+397,Unauthorized sale of AI facial recognition databases,Punishes individuals who sell biometric data collected via AI.,Facial recognition data leak,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+398,Misuse of AI to replicate human voices and images,Punishes individuals who use AI to impersonate others through voice or video.,AI impersonation fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+399,Manipulation of AI-driven weather forecasting systems,Punishes individuals who alter meteorological reports for financial gain.,Weather data tampering,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+400,Hacking into AI-driven medical implants,Punishes cybercriminals who access and manipulate AI-powered medical devices.,Medical AI hacking,Up to life imprisonment,Yes,No,Sessions Court
+401,Unauthorized AI-driven psychological profiling,Punishes individuals who use AI to analyze and manipulate human behavior without consent.,AI profiling abuse,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+402,Fraud in AI-based educational testing,Punishes manipulation of AI-driven grading or online examinations.,AI exam fraud,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+403,Sabotaging AI-driven stock market trading,Punishes individuals who hack or manipulate algorithmic trading.,AI market sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+404,Unauthorized AI-powered emotion detection,Punishes misuse of AI to detect and exploit human emotions.,AI emotion manipulation,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+405,Selling unauthorized access to AI research models,Punishes individuals who illegally distribute AI model datasets.,AI research theft,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+406,Illegal use of AI in law enforcement decision-making,Punishes individuals who manipulate AI-based judicial or policing decisions.,AI judicial fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+407,Tampering with AI-driven fraud detection systems,Punishes individuals who bypass AI fraud detection for financial gain.,Fraud detection manipulation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+408,AI-powered identity theft for financial gain,Punishes individuals who use AI to generate fake financial identities.,AI financial ID theft,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+409,Unauthorized surveillance using AI-powered drones,Punishes individuals who use AI-equipped drones for illegal monitoring.,AI drone spying,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+410,Illegal AI-generated propaganda campaigns,Punishes individuals or organizations spreading large-scale misinformation using AI.,AI propaganda,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+411,Sabotaging AI-powered financial institutions,Punishes cybercriminals who attack AI-driven banking and insurance systems.,AI banking fraud,Up to life imprisonment,Yes,No,Sessions Court
+412,Unauthorized sale of AI-powered hacking tools,Punishes individuals who distribute AI-driven hacking software.,AI hacking tools,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+413,Obstructing AI-driven emergency response systems,Punishes tampering with AI-based disaster response platforms.,Emergency AI sabotage,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+414,Tampering with AI-driven crime prediction systems,Punishes interference with AI models used for crime forecasting.,AI crime forecasting fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+415,Using AI for automated mass surveillance,Punishes mass surveillance without legal authorization.,AI mass surveillance,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+416,Unauthorized AI-generated image manipulation,Punishes individuals who create fake images or videos to defraud others.,Deepfake fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+417,Tampering with AI-driven recruitment systems,Punishes individuals who manipulate AI-based job application processing.,AI recruitment fraud,Up to 5 years imprisonment and fine,Yes,No,Sessions Court
+418,Hacking AI-based transportation control systems,Punishes cybercriminals who interfere with AI traffic and railway control.,AI transport sabotage,Up to life imprisonment,Yes,No,Sessions Court
+419,Deliberate AI-driven tax fraud,Punishes individuals who use AI to manipulate tax filing or evade taxes.,AI tax fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+420,Unauthorized AI-generated automated scams,Punishes individuals who use AI chatbots for large-scale fraud.,AI scam fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+421,Tampering with AI-driven national security databases,Punishes individuals who alter or delete government AI-based intelligence.,AI security breach,Up to life imprisonment,Yes,No,Sessions Court
+422,Illegal manipulation of AI-based language translation tools,Punishes individuals who use AI translators to spread misinformation.,AI translation fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+423,Exploiting AI to create synthetic media for financial fraud,Punishes individuals who use AI-generated voices and videos for scams.,AI synthetic media fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+424,Illicit AI-powered voter suppression,Punishes the use of AI algorithms to suppress voter turnout.,AI voter suppression,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+425,Unauthorized creation of AI-based autonomous weapons,Punishes the development of AI-powered weapons without authorization.,AI weapons manufacturing,Up to life imprisonment,Yes,No,Sessions Court
+426,Illegal sale of AI-generated cybersecurity vulnerabilities,Punishes individuals who sell AI-discovered security flaws for criminal use.,Cybersecurity fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+427,Tampering with AI-driven medical robotic surgery,Punishes cybercriminals who manipulate robotic-assisted surgeries.,Medical AI sabotage,Up to life imprisonment,Yes,No,Sessions Court
+428,Using AI to exploit financial market loopholes,Punishes AI-driven high-frequency trading abuses.,AI financial loophole abuse,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+429,Unauthorized hacking of AI-driven smart cities,Punishes individuals who interfere with AI-powered urban infrastructure.,Smart city hacking,Up to life imprisonment,Yes,No,Sessions Court
+430,Unauthorized use of AI to manipulate international policies,Punishes individuals or organizations that use AI to interfere in global diplomacy.,AI international interference,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+431,Unauthorized sale of AI-generated deepfake identities,Punishes individuals who sell AI-generated fake identities for illegal purposes.,Deepfake identity fraud,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+432,Hacking into AI-driven smart home systems,Punishes individuals who manipulate AI-controlled household devices.,Smart home hacking,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+433,Tampering with AI-based DNA sequencing data,Punishes individuals who alter AI-driven genetic data for illegal purposes.,DNA data manipulation,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+434,Unauthorized AI-powered consumer data mining,Punishes companies or individuals who use AI to extract personal data without consent.,AI data privacy violation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+435,Exploiting AI to conduct mass automated phishing attacks,Punishes large-scale cyber scams using AI-generated phishing emails.,AI phishing fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+436,Illicit use of AI to alter historical records,Punishes individuals who manipulate digital history archives using AI.,AI history manipulation,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+437,Tampering with AI-generated forensic reconstruction,Punishes individuals who alter AI-driven forensic reconstructions.,Forensic AI fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+438,AI-assisted large-scale identity fraud,Punishes individuals who use AI to forge multiple fake identities for fraud.,AI mass identity fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+439,Unauthorized AI-assisted personality manipulation,Punishes individuals who use AI-driven psychological models to manipulate behavior.,AI psychological coercion,Up to 7 years imprisonment and fine,Yes,No,Sessions Court
+440,Tampering with AI-driven emergency weather alerts,Punishes individuals who alter AI-generated weather warnings.,AI weather fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+441,Unauthorized AI-powered election influence campaigns,Punishes organizations or individuals who use AI to manipulate elections.,AI election manipulation,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+442,Fraud using AI-generated realistic voice cloning,Punishes those who use AI-cloned voices to commit scams.,AI voice fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+443,Sabotaging AI-powered cybersecurity systems,Punishes those who disable or corrupt AI-driven security platforms.,AI cybersecurity attack,Up to life imprisonment,Yes,No,Sessions Court
+444,Exploiting AI to manipulate medical imaging results,"Punishes altering AI-generated X-rays, MRIs, or CT scans for fraudulent claims.",Medical AI image fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+445,Using AI to generate and spread false legal documents,Punishes individuals who create AI-generated fake legal paperwork.,AI legal document fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+446,Tampering with AI-powered space mission control,Punishes individuals who interfere with AI-driven satellite or space operations.,AI space sabotage,Up to life imprisonment,Yes,No,Sessions Court
+447,Unauthorized trade of AI-based human behavior prediction models,Punishes illegal sale of AI-driven human behavior analysis tools.,AI behavior prediction fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+448,Using AI to facilitate cryptocurrency laundering,Punishes individuals who use AI algorithms to disguise illicit financial transactions.,AI crypto laundering,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
+449,Sabotaging AI-driven infrastructure control systems,"Punishes cybercriminals who disrupt AI-powered utilities such as electricity, water, and traffic management.",AI infrastructure attack,Up to life imprisonment,Yes,No,Sessions Court
+450,Tampering with AI-generated scientific research,Punishes manipulation of AI-driven research papers and scientific data.,AI scientific fraud,Up to 10 years imprisonment and fine,Yes,No,Sessions Court
